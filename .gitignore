@@ -1,3 +1,8 @@
 venv/
-temp_speech.wav
+__pycache__/
+*.pyc
+*.pkl
 *.pdf
+*.wav
+
+
